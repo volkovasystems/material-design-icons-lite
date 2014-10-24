@@ -1,11 +1,11 @@
 {
   "name": "material-design-icons",
   "version": "1.0.0",
-  "description": "Material Design icons by Google",
+  "description": "Forked Material Design icons by Google for my personal project needs.",
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/google/material-design-icons"
+    "url": "https://github.com/volkovasystems/material-design-icons"
   },
   "keywords": [
     "icons",
@@ -16,7 +16,7 @@
   "author": "Material Design Authors",
   "license": "CC-BY-SA-4.0",
   "bugs": {
-    "url": "https://github.com/google/material-design-icons/issues"
+    "url": "https://github.com/volkovasystems/material-design-icons/issues"
   },
-  "homepage": "https://github.com/google/material-design-icons"
+  "homepage": "https://github.com/volkovasystems/material-design-icons"
 }
